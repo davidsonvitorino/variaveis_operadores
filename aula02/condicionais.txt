@@ -1,0 +1,10 @@
+Faça um programa para calcular o valor de viagem.
+
+Você terá 3 variaveis. Sendo elas:
+    1 - Preço da gasolina;
+    2 - Preco do etanol;
+    3 - Otipo de combustível que está no carro;
+    4 - Gasto médio de combustível por km;
+    5 - Distância em km da viagem;
+
+Imprima no console o valor que será gasto para realizar esta viagem.
